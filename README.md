@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Data-Warehouse"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Data-Warehouse?style=flat-square" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Data-Warehouse"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Data-Warehouse?style=flat-square" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Data-Warehouse/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Cloud-Data-Warehouse?style=flat-square" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Data-Warehouse/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Cloud-Data-Warehouse?style=flat-square" alt="GitHub Issues"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Data-Warehouse/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Cloud-Data-Warehouse?style=flat-square" alt="License"/></a>
@@ -68,9 +68,9 @@ This repository tracks top-tier **SaaS platforms**, **cloud-native lakehouses**,
 
 ## 🔓 Open-Source GitHub Projects
 
-*Sorted by GitHub Star Count (Descending):*
+*Sorted by GitHub Stars_Count (Descending):*
 
-| Repo | Description | Stars |
+| Repo | Description | GitHub_Stars |
 |:---|:---|:---:|
 | **[Apache Spark](https://github.com/apache/spark)** | Unified engine for large-scale data processing & data lakehouses. Apache-2.0. | [![Stars](https://img.shields.io/github/stars/apache/spark?style=social&color=white)](https://github.com/apache/spark/stargazers) |
 | **[ClickHouse](https://github.com/ClickHouse/ClickHouse)** | Column-oriented real-time DBMS with vectorized execution. Apache-2.0. | [![Stars](https://img.shields.io/github/stars/ClickHouse/ClickHouse?style=social&color=white)](https://github.com/ClickHouse/ClickHouse/stargazers) |
@@ -93,7 +93,7 @@ This repository tracks top-tier **SaaS platforms**, **cloud-native lakehouses**,
 
 Contributions are highly welcome! To add or update entries:
 1. Fork the repository.
-2. Update `README.md` following the exact table formatting (include exact pricing/trial limits or GitHub star badges).
+2. Update `README.md` following the exact table formatting (include exact pricing/trial limits or GitHub Stars_Badges).
 3. Submit a Pull Request detailing your changes.
 
 Check out our curated list collection at [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome).
